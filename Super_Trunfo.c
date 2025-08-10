@@ -62,7 +62,7 @@ int main() {
     struct Carta carta1 = {"A", "A01", "São Paulo", 12325000, 1521.11, 699.28, 50};
     struct Carta carta2 = {"B", "B02", "Rio de Janeiro", 6748000, 1200.25, 300.50, 30};
 
-    printf("===== CARTA 1 =====\n");
+    printf("\n===== CARTA 1 =====\n");
     exibirCarta(carta1);
 
     printf("===== CARTA 2 =====\n");
